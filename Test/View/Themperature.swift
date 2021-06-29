@@ -30,6 +30,7 @@ struct Themperature:View {
                     }
                         Text("Temperature,ºC").font(.system(size: 14, weight: .semibold, design: .default)).foregroundColor(Color.init(#colorLiteral(red: 0.537254902, green: 0.5411764706, blue: 0.5529411765, alpha: 1)))
                     }.padding(.leading,40)
+//                    fghtre
                     Spacer()
                 }.padding(.top,130)
                 HStack{
